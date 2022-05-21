@@ -1,4 +1,5 @@
-import 'package:batox_mobile/Page/BrowseAll/components/bodyBrowseall.dart';
+import 'package:batox_mobile/Page/BrowseAll/components/bodyBrowse_all.dart';
+
 import 'package:batox_mobile/Style/customColor.dart';
 import 'package:flutter/material.dart';
 
