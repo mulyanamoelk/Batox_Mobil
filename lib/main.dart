@@ -1,19 +1,12 @@
-import 'package:batox_mobile/Page/Add_Vehicles/addVehicles.dart';
-import 'package:batox_mobile/Page/Add_Vehicles/selectYear.dart';
-import 'package:batox_mobile/Page/Add_Vehicles/timelines.dart';
-import 'package:batox_mobile/Page/BrowseAll/browseAll.dart';
-import 'package:batox_mobile/Page/BrowseAll/components/GridviewBody.dart';
-
-import 'package:batox_mobile/Page/Prefer/prefer1.dart';
-import 'package:batox_mobile/Page/Prefer/prefer2.dart';
-import 'package:batox_mobile/Page/Preference/partPage.dart';
-import 'package:batox_mobile/Page/Preference/preference.dart';
-import 'package:batox_mobile/Page/Preference/vehiclesPage.dart';
-import 'package:batox_mobile/Page/Splash/getStarted.dart';
-import 'package:batox_mobile/Page/Splash/splashScreen.dart';
-import 'package:batox_mobile/Page/buttomNavigationBar/navigation.dart';
-import 'package:batox_mobile/Page/main/components/section-mobile.dart';
-import 'package:batox_mobile/Page/main/mainPage.dart';
+import 'package:batox_mobile/pages/Add_Vehicles/addVehicles.dart';
+import 'package:batox_mobile/pages/Add_Vehicles/selectYear.dart';
+import 'package:batox_mobile/pages/Bottom_Navigation_Bar/navigation.dart';
+import 'package:batox_mobile/pages/Prefer/prefer1.dart';
+import 'package:batox_mobile/pages/Prefer/prefer2.dart';
+import 'package:batox_mobile/pages/Preference/partPage.dart';
+import 'package:batox_mobile/pages/Preference/preference.dart';
+import 'package:batox_mobile/pages/Preference/vehiclesPage.dart';
+import 'package:batox_mobile/pages/Splash/getStarted.dart';
 import 'package:flutter/material.dart';
 
 void main() {

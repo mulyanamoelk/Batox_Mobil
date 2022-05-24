@@ -1,7 +1,7 @@
 import 'dart:async';
 import 'dart:math';
 
-import 'package:batox_mobile/Page/Splash/getStarted.dart';
+import 'package:batox_mobile/pages/Splash/getStarted.dart';
 import 'package:flutter/material.dart';
 
 class splashScreen extends StatefulWidget {
